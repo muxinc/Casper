@@ -27,7 +27,7 @@
    ========================================================================== */
 
 html {
-    font-family: sans-serif;
+    font-family: "Akkurat Light", "Helvetica Neue", sans-serif; /* only change atm */
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
